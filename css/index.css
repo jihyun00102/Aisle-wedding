@@ -75,7 +75,7 @@ section#concept .wrap .title{
 }
 section#concept .wrap .title h2{
     line-height: 1; 
-    background: #aff; 
+    /* background: #aff;  */
     padding-left: 14px; 
     border-left: 4px solid #000; 
     font-size: 32px; 
@@ -198,7 +198,7 @@ section#gallery .wrap .content .box{
     width: calc(100% / 3 - 20px);
     height: 240px;
     margin: 0 10px 20px;
-    background-color: #faa;
+    /* background-color: #faa; */
     background-size: cover;
     background-position: 50% 50%;
 }
@@ -278,7 +278,7 @@ section#review .dark .wrap .content .box .img_part{
     width: calc(30% - 20px); 
     height: 200px;
     margin: 0 10px;
-    background-color: #cff;
+    /* background-color: #cff; */
     background-size: cover;
     background-position: 50% 50%;
 }
